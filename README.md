@@ -1,1 +1,2 @@
-# ecns-sdk-python
+# ECNS Python SDK
+ECNS SDK for Python
